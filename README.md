@@ -1,6 +1,6 @@
 # uk-counties-list
 
-What you will find in this repository
+### What you will find in this repository
 
 * List of the United Kindom Counties (format: csv, 94 items)
 * List of the main UK areas (format: csv, 12 items)
@@ -12,7 +12,7 @@ For almost each shapefile I have created a simplified version with semplified ge
 
 Informations may be incorrect and incomplete, so please be sure to double check on the governament and authoritive websites before publishing any content on your website.
 
-** Data Websites
+### Data & Useful Websites
 In the following websites you can find interesting data about UK/World maps
 * http://census.edina.ac.uk/ (recommended for United Kindom)
 * http://download.geofabrik.de/
@@ -20,6 +20,6 @@ In the following websites you can find interesting data about UK/World maps
 * http://saspac.org/data
 * http://geocommons.com/
 
-** Tools & Software
+### Tools & Software
 * Convert Shapefile ESRI to KML online (and more) http://www.mapsdata.co.uk/online-file-converter/
 * Shapefiles Editor/Viewer http://www.qgis.org/
