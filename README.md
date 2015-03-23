@@ -12,17 +12,14 @@ For almost each shapefile I have created a simplified version with semplified ge
 
 Informations may be incorrect and incomplete, so please be sure to double check on the governament and authoritive websites before publishing any content on your website.
 
-Data Websites
+** Data Websites
 In the following websites you can find interesting data about UK/World maps
-* http://census.edina.ac.uk/
+* http://census.edina.ac.uk/ (recommended for United Kindom)
 * http://download.geofabrik.de/
 * http://gfoss.it/drupal/geodati
 * http://saspac.org/data
 * http://geocommons.com/
 
-Tools & Software
-Convert Shapefile ESRI to KML online (and more)
-http://www.mapsdata.co.uk/online-file-converter/
-
-Shapefiles Editor/Viewer
-http://www.qgis.org/
+** Tools & Software
+* Convert Shapefile ESRI to KML online (and more) http://www.mapsdata.co.uk/online-file-converter/
+* Shapefiles Editor/Viewer http://www.qgis.org/
