@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:METS xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/TR/xlink/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" OBJEDIT="/admin/item?itemID=767" OBJID="/handle/10672/551" PROFILE="DSPACE METS SIP Profile 1.0" LABEL="DSpace Item" ID="hdl:10672/551">
+<mets:dmdSec GROUPID="group_dmd_0" ID="dmd_1">
+<mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DIM">
+<mets:xmlData>
+<dim:dim dspaceType="ITEM">
+<dim:field element="contributor" mdschema="dc">Crone, James</dim:field>
+<dim:field element="contributor" qualifier="author" mdschema="dc">Dörrbecker, Maximilian</dim:field>
+<dim:field element="contributor" qualifier="other" language="en" mdschema="dc">EDINA</dim:field>
+<dim:field element="coverage" qualifier="spatial" language="en" mdschema="dc">northlimit=53.9735;eastlimit=-2.5121;southlimit=52.6451;westlimit=-5.126;</dim:field>
+<dim:field element="coverage" qualifier="temporal" mdschema="dc">2014-02-24</dim:field>
+<dim:field element="date" qualifier="accessioned" mdschema="dc">2014-02-24T16:39:11Z</dim:field>
+<dim:field element="date" qualifier="available" mdschema="dc">2014-02-24T16:39:11Z</dim:field>
+<dim:field element="date" qualifier="issued" mdschema="dc">2014-02-24</dim:field>
+<dim:field element="identifier" mdschema="dc">http://www.sharegeo.ac.uk/bitstream/handle/10672/551/northern_ireland_counties.zip?sequence=1</dim:field>
+<dim:field element="identifier" qualifier="uri" mdschema="dc">http://hdl.handle.net/10672/551</dim:field>
+<dim:field element="description" language="en" mdschema="dc">A PNG map showing the Northern Ireland county boundaries was downloaded from wikipedia: http://en.wikipedia.org/wiki/File:Northern_Ireland_-_Counties.png&#13;
+&#13;
+The PNG was georeferenced in QGIS using control points with reference to an OGL dataset downloaded from the UK Data Service showing the Northern Ireland coastline. Internal county boundaries were digitised from the georeferenced PNG as a set of polylines. These polylines were then snapped to the coastline features and polygons were generated. A county name was then assigned to each polygon in the attribute table.</dim:field>
+<dim:field element="description" qualifier="abstract" language="en" mdschema="dc">Polygon dataset showing the 6 counties of Northern Ireland e.g. County Armagh, County Tyrone etc which were the primary local government geography of Northern Ireland before the introduction of unitary authorities in 1972.</dim:field>
+<dim:field element="format" language="en" mdschema="dc">ESRI Shapefile</dim:field>
+<dim:field element="language" qualifier="iso" language="en" mdschema="dc">en</dim:field>
+<dim:field element="rights" language="en" mdschema="dc">This data is made available under the Open Government Licence whose full text can be found at http://www.nationalarchives.gov.uk/doc/open-government-licence/</dim:field>
+<dim:field element="subject" qualifier="classification" language="en" mdschema="dc">Boundaries</dim:field>
+<dim:field element="title" language="en" mdschema="dc">Northern Ireland Counties</dim:field>
+<dim:field element="type" language="en" mdschema="dc">GIS vector data</dim:field>
+</dim:dim>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="CONTENT">
+<mets:file CHECKSUMTYPE="MD5" GROUPID="group_file_1062" ID="file_1062" MIMETYPE="application/zip" SIZE="3200296" CHECKSUM="ec8f3663fb1354d4eec07850eeab8a0b">
+<mets:FLocat LOCTYPE="URL" xlink:title="northern_ireland_counties.zip" xlink:type="locator" xlink:href="/bitstream/handle/10672/551/northern_ireland_counties.zip?sequence=1"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="LICENSE">
+<mets:file CHECKSUMTYPE="MD5" GROUPID="group_file_1063" ID="file_1063" MIMETYPE="text/plain; charset=utf-8" SIZE="127" CHECKSUM="44d9ed4f6902860fbb92bf26df40fc3b">
+<mets:FLocat LOCTYPE="URL" xlink:title="license.txt" xlink:type="locator" xlink:href="/bitstream/handle/10672/551/license.txt?sequence=-1"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap LABEL="DSpace" TYPE="LOGICAL">
+<mets:div DMDID="dmd_1" TYPE="DSpace Item">
+<mets:div ID="div_2" TYPE="DSpace Content Bitstream">
+<mets:fptr FILEID="file_1062"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:METS>

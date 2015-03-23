@@ -1,0 +1,35 @@
+2001 Census Boundary Derived Datasets (Scotland)
+-------------------------------------
+
+The following Statement must appear on any maps or documents which use this boundary dataset, which is derived from 2001 Census digital boundary data:
+
+"This work is based on data provided through EDINA UKBORDERS with the support of the ESRC and JISC and uses boundary material which is copyright of the Crown and the Post Office." 
+
+
+UKBORDERS TERMS AND CONDITIONS.
+
+End User Licence 
+I agree to the following conditions of use: 
+
+To abide by any conditions notified to me that may apply to the access to, or use of, specific materials within the data collections. 
+To use and to make personal copies of any part of the data collections only for the purposes of not-for-profit research or teaching or personal educational development. To obtain a separate licence from the relevant data service provider for use of any part of the data collections for commercial purposes. 
+To give access to the data collections, in whole or in part, or any material derived from the data collections, only to registered users who have received permission from the data service provider to use the data collections, with the exception of data collections supplied for the stated purpose of teaching. 
+To ensure that the means of access to the data (such as passwords) are kept secure and not disclosed to a third party except by special written permission or licence obtained from the original data service provider. 
+To preserve at all times the confidentiality of information pertaining to individuals and/or households in the data collections where the information is not in the public domain. Not to use the data to attempt to obtain or derive information relating specifically to an identifiable individual or household, nor to claim to have obtained or derived such information. In addition, to preserve the confidentiality of information about, or supplied by, organisations recorded in the data collections. This includes the use or attempt to use the data collections to compromise or otherwise infringe the confidentiality of individuals, households or organisations. 
+To acknowledge, in any publication, whether printed, electronic or broadcast, based wholly or in part on the data collections, the original data creators, depositors or copyright holders, the funders of the data collections and the data distributors in the form specified on the data distribution notes. To cite, in any publication, whether printed, electronic or broadcast, based wholly or in part on the data collections, the data collection used in the form specified on the data distribution notes. 
+To supply the data service provider with the bibliographic details of any published work based wholly or in part on the data collections. 
+That the data service provider may hold the personal data submitted by me for validation and statistical purposes, and may pass the information on to other parties such as depositors and distributors of material contained in or accessed via the data service provider, copyright and other intellectual property right owners whose material is held by the data service provider as well as the data service provider's funder(s) and my own institution or organisation, in compliance with the Data Protection Act 1998. 
+To notify the data service provider of any errors discovered in the data collections. 
+That the personal data submitted by me is accurate to the best of my knowledge, and that any changes in that personal data, including my educational or employment status, are made known to the data service provider with whom I registered at the earliest possible opportunity. 
+I understand that breach of the above provisions of this Agreement will lead to immediate termination of my access to all services provided by the relevant data service provider, either permanently or temporarily, at the discretion of the data service provider, and may result in legal action being taken against me. I understand that where there is no breach of this agreement, it may be terminated, or its terms altered, by the relevant data service provider either after 30 days notice; or, if a service charge has been paid in advance, at the end of the period for which payment has been made, whichever is the longer. 
+
+DISCLAIMERS 
+The data service provider(s), the original data creators, depositors or copyright holders or the funders of the data collections bear no legal responsibility for the accuracy or comprehensiveness of the data supplied. 
+
+The data service provider(s), the original data creators, depositors or copyright holders, or the funders of the data collections accept no liability for indirect, consequential or incidental damages or losses arising from use of the data collections, or from the unavailability of, or break in access to, the service, for whatever reason. 
+
+
+
+
+
+ 
