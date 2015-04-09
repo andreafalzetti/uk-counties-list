@@ -1,4 +1,4 @@
-# uk-counties-list
+# UK Counties List
 
 ### What you will find in this repository
 
